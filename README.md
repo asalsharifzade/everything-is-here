@@ -91,8 +91,8 @@ ecommerce-store/
 ### Installation
 
 ```bash
-git clone https://github.com/asalsharifzade/ecommerce-store.git
-cd ecommerce-store
+git clone https://github.com/asalsharifzade/everything-is-here.git
+cd everything-is-here
 npm install
 ```
 
